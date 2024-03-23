@@ -16,4 +16,9 @@ print('''
 My Name: Vivek 
 Sirname : Nagre
 ''')
-  
+#  Jython is customized version of Python to work with Java Applications (IBM Maximo Auto Script).
+
+# High  Level Progaming langauge -> as a developer we do not need to handel the memory managmenet or the 
+#interprited langauge               garbage collection activity python will handel it in every exicuation
+
+print(id(b))
