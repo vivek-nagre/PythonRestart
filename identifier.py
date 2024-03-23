@@ -5,3 +5,6 @@ print("All about Identifier and variables in python")
 import keyword
 print(keyword.kwlist)
 print(len(keyword.kwlist))  # 35 reserve keywords 
+
+# Varibale use to store name age mark mearsurement boolean data such as True False None
+#  Case senaitive Same variable i.e NAME or name having differant address
