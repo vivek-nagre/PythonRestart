@@ -14,3 +14,6 @@ print ("address for the variable are differnat evern name of variable is same " 
 
 # we can able to use the reserver key word as variable or identifer in coding since it has specifc meaning 
 # example if elif else id help def for while in range import etc there are 32 reserve keyword by python that we cant use it in our laguage
+import keyword
+x=list((keyword.kwlist))
+print(len(x))
