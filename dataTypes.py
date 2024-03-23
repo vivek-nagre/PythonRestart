@@ -14,3 +14,14 @@ Python contains the following inbuilt data types
 13.dict -- > To have the Key value pair in 
 14.None -- > assign None type value and then we can put the flag on it 
 '''
+Name="Vivek"
+mark=10
+NAME=" Shubham"
+print(Name[0])
+print(Name[0:4:2])
+
+# Type Casting 
+lst=['vivek','shubham']
+print(tuple(lst))
+print(float(mark))
+print(str(mark))
