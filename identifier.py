@@ -4,4 +4,4 @@ print("All about Identifier and variables in python")
 #  We were not allowed to use the reserve keyword as our variable/identifier 
 import keyword
 print(keyword.kwlist)
-print(len(keyword.kwlist))  # 35 key words 
+print(len(keyword.kwlist))  # 35 reserve keywords 
